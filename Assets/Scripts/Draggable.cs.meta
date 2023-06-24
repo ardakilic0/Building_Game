@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c1db07b8c7bf324bbcc9ce42fcc3587
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buildPrefabPawn: {fileID: 605754399436404673, guid: 7e49d8e3d6693c04bad57107e6fc16f4, type: 3}
+  - buildPrefabCar: {fileID: 5045975798317773610, guid: e46712b449eca4d4bb94e48849206485, type: 3}
+  - buildPrefabHouse: {fileID: 2116411585713872253, guid: 61b338695fb929e40a683311ce506d90, type: 3}
+  - buildPrefabShip: {fileID: 5756333417188151477, guid: 96ab0215b956e764bb0678cce7ee2a60, type: 3}
+  - buildPrefabTrain: {fileID: 1716995788811929112, guid: 9aca7d71aa04e9a4a9b107576ce40398, type: 3}
+  - buildPrefabCastle: {fileID: 4744959771603351975, guid: 8ad175ca179cc564abdf167accb7d454, type: 3}
+  - build: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
